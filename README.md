@@ -17,17 +17,17 @@ These instructions will help you set up and run the project on your local machin
 
 1. Clone the repository to your local machine
 
-git clone https://github.com/Fardeen896/WebstaurantStore-Code-Screen.git
+  git clone https://github.com/Fardeen896/WebstaurantStore-Code-Screen.git
 
 
 2. Go to the project directory
 
-cd WebstaurantStore-Code-Screen
+  cd WebstaurantStore-Code-Screen
 
 
 3. Run the test
 
-mvn test
+  mvn test
 
 
 ## Built With
