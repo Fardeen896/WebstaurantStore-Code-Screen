@@ -8,9 +8,8 @@
           <include name="tearDown"/>
           <include name="addToCart"/>
           <include name="emptyCart"/>
+          <include name="searchAndVerify"/>
           <include name="setup"/>
-          <include name="search"/>
-          <include name="verifyTableProducts"/>
         </methods>
       </class> <!-- WebstaurantStoreTest -->
     </classes>

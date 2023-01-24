@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-16T19:04:08 EST" name="Default suite" finished-at="2023-01-16T19:04:19 EST" duration-ms="11477">
+  <suite started-at="2023-01-23T19:03:09 EST" name="Default suite" finished-at="2023-01-23T19:03:20 EST" duration-ms="10484">
     <groups>
     </groups>
-    <test started-at="2023-01-16T19:04:08 EST" name="Default test" finished-at="2023-01-16T19:04:19 EST" duration-ms="11477">
+    <test started-at="2023-01-23T19:03:09 EST" name="Default test" finished-at="2023-01-23T19:03:20 EST" duration-ms="10484">
       <class name="WebstaurantStoreTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:WebstaurantStoreTest@145f66e3]" started-at="2023-01-16T19:04:08 EST" name="setup" finished-at="2023-01-16T19:04:09 EST" duration-ms="1596" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:WebstaurantStoreTest@359f7cdf]" started-at="2023-01-23T19:03:09 EST" name="setup" finished-at="2023-01-23T19:03:11 EST" duration-ms="1859" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="searchAndVerify()[pri:0, instance:WebstaurantStoreTest@145f66e3]" started-at="2023-01-16T19:04:10 EST" name="searchAndVerify" finished-at="2023-01-16T19:04:15 EST" duration-ms="5331" status="PASS">
+        <test-method signature="searchAndVerify()[pri:0, instance:WebstaurantStoreTest@359f7cdf]" started-at="2023-01-23T19:03:11 EST" name="searchAndVerify" finished-at="2023-01-23T19:03:15 EST" duration-ms="3794" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchAndVerify -->
-        <test-method signature="addToCart()[pri:0, instance:WebstaurantStoreTest@145f66e3]" started-at="2023-01-16T19:04:15 EST" name="addToCart" finished-at="2023-01-16T19:04:16 EST" depends-on-methods="WebstaurantStoreTest.searchAndVerify" duration-ms="1207" status="PASS">
+        <test-method signature="addToCart()[pri:0, instance:WebstaurantStoreTest@359f7cdf]" started-at="2023-01-23T19:03:15 EST" name="addToCart" finished-at="2023-01-23T19:03:16 EST" depends-on-methods="WebstaurantStoreTest.searchAndVerify" duration-ms="1219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCart -->
-        <test-method signature="emptyCart()[pri:0, instance:WebstaurantStoreTest@145f66e3]" started-at="2023-01-16T19:04:16 EST" name="emptyCart" finished-at="2023-01-16T19:04:19 EST" depends-on-methods="WebstaurantStoreTest.addToCart" duration-ms="2679" status="PASS">
+        <test-method signature="emptyCart()[pri:0, instance:WebstaurantStoreTest@359f7cdf]" started-at="2023-01-23T19:03:16 EST" name="emptyCart" finished-at="2023-01-23T19:03:19 EST" depends-on-methods="WebstaurantStoreTest.addToCart" duration-ms="2906" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- emptyCart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:WebstaurantStoreTest@145f66e3]" started-at="2023-01-16T19:04:19 EST" name="tearDown" finished-at="2023-01-16T19:04:19 EST" duration-ms="632" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:WebstaurantStoreTest@359f7cdf]" started-at="2023-01-23T19:03:19 EST" name="tearDown" finished-at="2023-01-23T19:03:20 EST" duration-ms="680" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
